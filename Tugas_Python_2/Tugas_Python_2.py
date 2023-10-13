@@ -3,7 +3,7 @@ print("Rezi Rafidan Alfizar")
 print("5009211024")
 
 def convolv(signal, conv):
-    # Length of the input signal and the convolution kernel
+    # Length of the input signal and the convolution
     signal_len = len(signal)
     conv_len = len(conv)
 
