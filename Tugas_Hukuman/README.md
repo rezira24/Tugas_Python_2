@@ -1,5 +1,12 @@
-# Tugas_Python_2
+# Tugas_Hukum
 
 ## Result
 
-![image](Tugas_Python_2.png)
+### FFT 1D
+![image](FFT_1D.png)
+
+### FFT 2D
+![image](FFT_2D.png)
+
+### MFCC
+![image](MFCC.png)
