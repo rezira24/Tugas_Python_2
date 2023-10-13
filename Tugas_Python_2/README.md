@@ -1,7 +1,6 @@
 # Tugas_Python_2
 
-Nama   : Rezi Rafidan Alfizar
-NRP    : 5009211079
+Rezi Rafidan Alfizar (5009211024)
 
 ## Hasil
 
@@ -54,3 +53,8 @@ np_convolution = np.convolve(signal, convo, mode='full')
 # Print the NumPy result
 print("NumPy Convolution Result:", np_convolution)
 ```
+
+##Commit Logs
+Untuk Commit Logs adalah sebagai berikut
+
+![image](Commit_Logs.png)
