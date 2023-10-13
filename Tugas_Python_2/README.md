@@ -1,4 +1,4 @@
-# Tugas_Python_2
+# Tugas Python 2
 
 Rezi Rafidan Alfizar (5009211024)
 
