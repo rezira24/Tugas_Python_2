@@ -54,7 +54,7 @@ np_convolution = np.convolve(signal, convo, mode='full')
 print("NumPy Convolution Result:", np_convolution)
 ```
 
-##Commit Logs
+## Commit Logs
 Untuk Commit Logs adalah sebagai berikut
 
 ![image](Commit_Logs.png)
